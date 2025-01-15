@@ -1,4 +1,4 @@
-#Autonomous Drone Pathfinding via Deep Reinforcement Learning
+# Autonomous Drone Navigation via Deep Reinforcement Learning
 
 Implemented autonomous drone navigation using Deep Reinforcement Learning (PPO) with PyBullet physics engine, achieving 90% success rate in dynamic obstacle avoidance and target acquisition.
 
